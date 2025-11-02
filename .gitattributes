@@ -1,0 +1,2 @@
+aparthackaton.zi[ filter=lfs diff=lfs merge=lfs -text
+aparthackaton.zip filter=lfs diff=lfs merge=lfs -text
